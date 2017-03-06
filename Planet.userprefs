@@ -1,8 +1,9 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\collider.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Vehicles\Aircraft\AircraftGuidelines.txt">
     <Files>
       <File FileName="Assets\Scripts\collider.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Vehicles\Aircraft\AircraftGuidelines.txt" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
